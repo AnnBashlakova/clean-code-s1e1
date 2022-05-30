@@ -43,7 +43,7 @@
 }
 
 #incompleted-tasks {
-  margin:0;
+  margin: 0;
   padding: 0px;
 }
 
@@ -56,15 +56,15 @@
 }
 
 #header-text {
-  list-style:none;
+  list-style: none;
 }
 
 input,button{
-  outline:none;
+  outline: none;
 }
 
 .button {
-  outline:none;
+  outline: none;
   background: none;
   border: 0px;
   color: #888;
@@ -162,14 +162,14 @@ input,button{
 
 /* Edit Task */
 #task-item .input-text {
-  display:none
+  display: none
 }
 
 #task-item.edit-mode .input-text {
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 
 .task-item.edit-mode .label {
-  display:none;
+  display: none;
 }
